@@ -1,0 +1,2 @@
+Mọi người muốn mở game thì chỉ cần mở file "index" là chạy được game
+các file khác xin đừng đụng vào ạ :((
